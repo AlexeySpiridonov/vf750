@@ -31,6 +31,7 @@ The only clearly documented successful modern front-end conversion found for the
 Status: strongest direct proof of concept for a Sabre modern front-end conversion.
 
 #### Confirmed build choices
+
 - 2008 Suzuki GSX-R750 USD front end
 - GSX-R750 Tokico front brakes
 - GSX-R750 hand controls
@@ -42,12 +43,14 @@ Status: strongest direct proof of concept for a Sabre modern front-end conversio
 - custom throttle cables
 - custom stainless braided brake lines
 
-#### Why this matters
+#### Why it matters
+
 - this is not a "forks only" swap
 - it confirms that the full solution is stem + triples + wheel/hub + brakes + controls + cables
 - it shows the usual old-bike custom pattern: one donor front end, then custom parts to make it actually fit and work
 
 #### Sources
+
 - [CafeRacer.net thread](https://www.caferacer.net/threads/1984-honda-honda-vf700s-sabre-cafe.28714/)
 - [Inazuma Cafe](https://www.inazumacafe.com/2016/10/vf750-sabre-cafe.html)
 
@@ -56,6 +59,7 @@ Status: strongest direct proof of concept for a Sabre modern front-end conversio
 Status: useful family-level proof, but not a direct V45 analogue.
 
 #### Confirmed build choices
+
 - Yamaha R1 front end conversion
 - new head bearings
 - custom steering stem / bearing work
@@ -63,9 +67,10 @@ Status: useful family-level proof, but not a direct V45 analogue.
 - fork disassembly, seal service, and spacer/extender planning
 - custom headlight lower brackets
 - clip-ons and sportbike-style controls
-- brake master cylinder / lever troubleshooting after bore-size mismatch
+- brake master cylinder and lever troubleshooting after a bore-size mismatch
 
 #### Why it matters
+
 - proves that full custom sportbike front-end swaps are feasible on the Sabre family
 - supports the idea that you should think in terms of a complete donor package, not isolated fork tubes
 - shows the hidden work after the front end is physically bolted on: headlight mounts, controls, brake hydraulics, fork sealing, bearing settling, and road-test correction
@@ -76,23 +81,27 @@ Status: useful family-level proof, but not a direct V45 analogue.
 This was done on a V65 Sabre, not the V45 VF750S project bike.
 
 #### Sources
+
 - [V4MuscleBike full build thread](https://v4musclebike.com/threads/newbies-84-v65-sabre.25947/)
 - [V4MuscleBike sale/build thread](https://v4musclebike.com/threads/custom-cafe-racer-honda-v65-sabre.35922/#post-404196)
 - [Local build notes](newbies-84-v65-sabre-build.md)
-- [Local image archive](../images/build-process/newbies-84-v65-sabre/README.md)
+- [Local image archive](../Images/build-process/newbies-84-v65-sabre/README.md)
 
 ### 3. K-Speed / "Sabre Racer"
 
 Status: strong design reference, but not a modern USD conversion.
 
 #### Confirmed build choice
+
 - stock 37 mm telescopic TRAC forks were lowered rather than replaced with a modern donor front end
 
 #### Why it matters
+
 - proves that a Sabre can get the low aggressive cafe stance without a complete modern fork swap
 - useful if the real goal is visual stance rather than a full donor front-end conversion
 
 #### Source
+
 - [Pipeburn feature](https://pipeburn.com/sabre-racer-honda-vf750s-k-speed-customs/)
 
 ### 4. Balkan Moto / V45 Sabre
@@ -100,32 +109,38 @@ Status: strong design reference, but not a modern USD conversion.
 Status: strongest warning example.
 
 #### What happened
+
 - the builder cut the fork springs to shorten the front end
 - he later concluded that the bike was unsafe and that the shortened setup left only about 1.5 inches of travel
-- on the later and better donor bike, he rebuilt the forks properly with progressive springs, fresh seals, preload caps, and sag setup
+- on the later, better donor bike, he rebuilt the forks properly with progressive springs, fresh seals, preload caps, and sag setup
 
 #### Why it matters
+
 - this is the clearest documented warning found during the search
-- never use spring cutting as a "fork swap substitute"
+- **never use spring cutting as a "fork swap substitute"**
 - ride height changes without real geometry and spring/damping work can turn the bike into a bad motorcycle very quickly
 
 #### Sources
+
 - [Balkan Moto build page](https://www.balkanmoto.com/builds/1982-83-honda-sabre-v45-cafe-racer.php)
 - [Balkan Moto suspension geometry tool](https://www.balkanmoto.com/tools/suspension-geometry.php)
 
 ## What the Bike Gives You in Stock Form
 
 ### Local repo facts
+
 - the local Sabre parts data shows a dual-disc front brake setup and a 110/90-18 front tire
 - the local Haynes material has dedicated sections for forks, steering stem, steering head bearings, anti-dive/TRAC, front wheel, and front brakes
 - the Haynes chapter for 1982 750 models shows that the early bike uses the stock air-assisted fork arrangement
 
 ### Why this matters for a swap
+
 - many modern sportbike forks are shorter
 - many modern sportbike swaps also move you from an 18-inch front to a 17-inch front
 - those two changes together can alter rake, trail, and overall stance much more than people expect
 
 ### Local references
+
 - `../Manuals/haynes-manual/sections/06-frame-suspension-and-final-drive.pdf`
 - `../Manuals/haynes-manual/sections/07-brakes-wheels-and-tires.pdf`
 - `../Manuals/partslist-vf700s-sabre/partslist-vf700s-sabre-searchable.txt`
@@ -156,9 +171,10 @@ This is exactly how the Perry bike was done.
 
 ### 2. Stem length is a real Sabre problem
 
-Forum evidence on the Sabre family says many modern forks are too short for the Sabre's relatively tall steering-neck arrangement, and that some successful swaps required machining or extensions.
+Forum evidence on the Sabre family says that many modern forks are too short for the Sabre's relatively tall steering neck, and that some successful swaps required machining or extensions.
 
 #### Source
+
 - [V4MuscleBike discussion](https://v4musclebike.com/threads/fork-swap.34228/)
 
 Important note: this is forum-sourced, not factory documentation, but it fits the custom-stem evidence seen in the Perry build.
@@ -172,6 +188,7 @@ Forum evidence from a V45 Sabre / VFR fork discussion says:
 - using the whole VFR setup, including wheel and brakes, is likely easier
 
 #### Source
+
 - [V4MuscleBike discussion](https://v4musclebike.com/threads/fork-swap.34228/)
 
 This reinforces the same lesson: front-end swaps usually work better when treated as a whole assembly.
@@ -180,29 +197,29 @@ This reinforces the same lesson: front-end swaps usually work better when treate
 
 The Sugarkryptonite V65/R1 thread adds a very practical warning: a swap can look physically complete while the controls and brake hydraulics are still wrong.
 
-The build encountered problems around aftermarket levers and master-cylinder bore mismatch. That matters because a sportbike caliper package expects a compatible master cylinder ratio; a lever that bolts to the bar is not automatically a safe brake control.
+The build encountered problems around aftermarket levers and a master-cylinder bore mismatch. That matters because a sportbike caliper package expects a compatible master cylinder ratio; a lever that bolts to the bar is not automatically a safe brake control.
 
 Plan to verify:
 
-- master cylinder bore;
-- caliper piston area;
-- lever travel and feel;
-- brake-light switch integration;
-- hose routing at full steering lock;
-- reservoir clearance;
-- throttle cable routing with clip-ons.
+- master cylinder bore
+- caliper piston area
+- lever travel and feel
+- brake-light switch integration
+- hose routing at full steering lock
+- reservoir clearance
+- throttle cable routing with clip-ons
 
 ### 5. Lighting and gauges become fabrication work
 
-The V65/R1 build also shows that the front end swap does not end at the steering stem. Once the original fork ears and gauge mounts are gone, you need a new plan for:
+The V65/R1 build also shows that the front-end swap does not end at the steering stem. Once the original fork ears and gauge mounts are gone, you need a new plan for:
 
-- headlight brackets;
-- gauge cluster mounting;
-- ignition switch mounting;
-- turn signals;
-- cable and harness strain relief;
-- steering stop clearance;
-- fork-to-tank/radiator clearance.
+- headlight brackets
+- gauge cluster mounting
+- ignition switch mounting
+- turn signals
+- cable and harness strain relief
+- steering stop clearance
+- fork-to-tank/radiator clearance
 
 Cheap universal headlights and brackets are a weak point. Treat them as electrical and vibration-critical parts, not just style parts.
 
@@ -211,10 +228,12 @@ Cheap universal headlights and brackets are a weak point. Treat them as electric
 ### 1. Full modern USD route
 
 #### Best proven direction
+
 - GSX-R750 donor front end, similar to the Perry build
 - R1-style donor front end, proven only as a V65 Sabre family-level process example
 
 #### What to expect
+
 - expensive
 - custom stem or custom triples
 - likely custom wheel/hub work if you want the exact visual result
@@ -231,18 +250,22 @@ You want modern upside-down forks, modern brakes, and custom-bike looks more tha
 ### 2. Near-era Honda conventional route
 
 #### Most plausible lower-drama option found
+
 - VFR700 / VFR750 conventional front-end family
 
 #### Why it is interesting
+
 - forum users reported matching fork diameter and similar length on some years
 - this should be less geometrically violent than jumping straight to short modern sportbike forks
 
-#### But
+#### Caveats
+
 - do not buy on hope alone
 - the brake and wheel package may still need to come over as a set
 - measure your donor before spending money
 
 #### Source
+
 - [V4MuscleBike discussion](https://v4musclebike.com/threads/fork-swap.34228/)
 
 ### 3. Rebuild-and-upgrade stock route
@@ -250,6 +273,7 @@ You want modern upside-down forks, modern brakes, and custom-bike looks more tha
 This is not a modern fork swap, but it is often the smarter answer if the goal is to ride the bike well.
 
 #### Confirmed directions found
+
 - progressive fork springs
 - Race Tech / Gold Valve Emulator direction discussed in forum upgrade threads
 - correct seals and bushings
@@ -260,6 +284,7 @@ This is not a modern fork swap, but it is often the smarter answer if the goal i
 - brake rebuild
 
 #### Strong evidence
+
 - Balkan Moto ended up here after learning the hard way
 - K-Speed got the low look without a donor front end
 - V4MuscleBike suspension discussions repeatedly treat springs, emulators, seals, bushings, sag, and brake service as a serious alternative to donor-fork swaps
@@ -267,10 +292,12 @@ This is not a modern fork swap, but it is often the smarter answer if the goal i
 ## Geometry Risks You Should Assume Until Measured
 
 ### Inference from the stock and donor setups
+
 - a stock Sabre front end with an 18-inch front wheel will not react the same way as a short sportbike fork on a 17-inch wheel
 - if you reduce fork length and reduce wheel radius at the same time, you will steepen the bike unless the rear is matched carefully
 
 ### Geometry variables that matter most
+
 - fork length
 - triple-clamp offset
 - axle location
@@ -279,20 +306,24 @@ This is not a modern fork swap, but it is often the smarter answer if the goal i
 - rear ride height
 
 ### Useful external references
+
 - [Balkan Moto suspension geometry tool](https://www.balkanmoto.com/tools/suspension-geometry.php)
 - [Cognito Moto GSX-R fixed-offset triple guidance](https://cognitomoto.com/products/gsx-r-fixed-offset-triple-tree-conversion-30mm-45mm-50mm-55mm-60mm)
 
 ### Useful vendor guidance, not a factory rule
+
 - on Cognito's GSX-R conversion page, 45 mm to 60 mm offsets are positioned as the normal range for 18-inch and 19-inch front rims
 - on the same page, 30 mm offset is recommended for 17-inch front-wheel setups
 
 ### Why this is worth noting
+
 - the proven Perry build moved to a 17-inch front wheel
 - the stock Sabre family setup in the local data uses an 18-inch front tire
 - front wheel diameter and triple offset should be considered together, not separately
 
 ### Practical warnings
-- do not cut springs to lower the bike
+
+- **do not cut springs to lower the bike**
 - do not slide the forks dramatically in the triples before you understand trail loss
 - do not assume a front-end swap automatically improves handling
 - do not change the front and rear ride heights independently without checking the result
@@ -302,6 +333,7 @@ This is not a modern fork swap, but it is often the smarter answer if the goal i
 ## Non-Negotiable Measurements Before Buying a Donor
 
 ### Measure the Sabre first
+
 - steering head length
 - stock stem overall length
 - lower bearing seat to top thread length
@@ -319,6 +351,7 @@ This is not a modern fork swap, but it is often the smarter answer if the goal i
 - front brake master cylinder bore and lever setup
 
 ### Measure the donor next
+
 - stem length
 - bearing sizes
 - fork length
@@ -338,6 +371,7 @@ If you skip this step, you are guessing.
 ## Parts and Work You Should Budget For
 
 ### Expected shopping list for a real swap
+
 - complete donor front end
 - new steering head bearings
 - custom stem or machine work budget
@@ -356,36 +390,38 @@ If you skip this step, you are guessing.
 - post-install bearing retorque and fastener shakedown
 
 ### Vendor and process references
+
 - [Cognito Moto fixed-offset GSX-R triple conversion](https://cognitomoto.com/products/gsx-r-fixed-offset-triple-tree-conversion-30mm-45mm-50mm-55mm-60mm)
 - [Cognito Moto custom fixed-offset race clamps for R1 / R6 forks](https://cognitomoto.com/products/r1-r6-fixed-offset-race-clamps)
 - [Cognito Moto custom fixed-offset race clamps for CBR600RR / CBR1000RR forks](https://cognitomoto.com/products/cbr600rr-cbr1000rr-fixed-offset-race-clamps)
 - [Example GSX-R conversion stem page](https://cognitomoto.com/products/gsx-r-fork-on-h2-750-frame-conversion-stem)
 
 ### Why these matter
-- they show the normal industry solution for old-bike front-end swaps is a custom pressed-in stem plus conversion bearings
+
+- they show that the normal industry solution for old-bike front-end swaps is a custom pressed-in stem plus conversion bearings
 - they show that stem, offset, bearings, and steering stops are normally treated as one package
 
 ## Practical Recommendation for This Project
 
-If the goal is "modern look + best possible ride + realistic effort":
-
-- first decide whether you want a true USD conversion or just a better-riding cafe front end
+If the goal is "modern look + best possible ride + realistic effort", first decide whether you want a true USD conversion or just a better-riding cafe front end.
 
 ### If you want the true USD look
+
 - copy the logic of the Perry build
 - buy a complete donor front end, not loose forks
 - assume custom stem work from day one
-- verify the brake master cylinder/caliper ratio before trusting the bike
+- **verify the brake master cylinder/caliper ratio before trusting the bike**
 - budget fabrication time for headlight, gauges, ignition switch, steering stops, and cable routing
 
 ### If you want the bike on the road faster and with less fabrication risk
+
 - rebuild the stock front end correctly first
 - upgrade springs, brakes, and lines
 - only move to a donor swap after you have baseline measurements and know exactly what the stock bike feels like
 
 ## 2026-04-29 V4MuscleBike Update Summary
 
-The newer forum pass did not reveal a clean VF750S/V45 bolt-on modern front end. It did add better confidence in the decision tree:
+The newer forum pass did not reveal a clean VF750S/V45 bolt-on modern front end. It did firm up the decision tree:
 
 - VFR conventional front-end research remains the most plausible lower-drama donor path for a V45 Sabre.
 - R1/GSX-R-style sportbike front ends should be treated as full custom conversions.
@@ -396,22 +432,27 @@ The newer forum pass did not reveal a clean VF750S/V45 bolt-on modern front end.
 ## Best Sources
 
 ### Direct Sabre modern-swap proof
+
 - [CafeRacer.net Perry build](https://www.caferacer.net/threads/1984-honda-honda-vf700s-sabre-cafe.28714/)
 - [Inazuma Cafe Perry feature](https://www.inazumacafe.com/2016/10/vf750-sabre-cafe.html)
 
 ### Best warning against fake lowering
+
 - [Balkan Moto V45 Sabre build](https://www.balkanmoto.com/builds/1982-83-honda-sabre-v45-cafe-racer.php)
 
 ### Best visual low-stock-fork reference
+
 - [Pipeburn K-Speed Sabre Racer](https://pipeburn.com/sabre-racer-honda-vf750s-k-speed-customs/)
 
 ### Best near-era swap discussion
+
 - [V4MuscleBike fork discussion](https://v4musclebike.com/threads/fork-swap.34228/)
 - [V4MuscleBike V65 fork swap discussion](https://v4musclebike.com/forums/showthread.php?t=13645)
 - [V4MuscleBike Magna fork upgrades discussion](https://v4musclebike.com/forums/showthread.php?t=43709)
 - [V4MuscleBike Progressive Springs discussion](https://v4musclebike.com/forums/showthread.php?t=32994)
 
 ### Best family-level custom front-end appendix
+
 - [V4MuscleBike Newbie's 1984 V65 Sabre full build thread](https://v4musclebike.com/threads/newbies-84-v65-sabre.25947/)
 - [V4MuscleBike V65 Sabre build/sale thread](https://v4musclebike.com/threads/custom-cafe-racer-honda-v65-sabre.35922/#post-404196)
 - [Local V65 build notes](newbies-84-v65-sabre-build.md)

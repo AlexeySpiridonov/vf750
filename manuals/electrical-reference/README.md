@@ -1,6 +1,6 @@
 # Electrical Reference Package
 
-This folder collects the electrical materials currently available in the project for the Honda Sabre build.
+This folder collects the electrical materials available in the repository for the Honda Sabre project.
 
 ## What Is Included
 
@@ -16,18 +16,22 @@ This folder collects the electrical materials currently available in the project
 ### Notes
 - `notes/internet-sources.md`
 - `notes/common-issues.md`
+
+### Related CDI reference package
 - `../cdi-reference/README.md`
 - `../cdi-reference/01-cdi-tech-and-timing.md`
 - `../cdi-reference/02-cdi-diagnostics-and-setup.md`
 - `../cdi-reference/03-cdi-replacement-options.md`
 - `../cdi-reference/sources.md`
+
+### Package manifest
 - `manifest.json`
 
 ## Scope Notes
 
 - The Haynes material covers several Sabre and Magna model years.
 - The parts catalog in this repository is specifically for the `1984-1985 VF700S Sabre`.
-- The project bike in this repository is described as a `1982 Honda Sabre`, so use the `1982 750 Sabre` wiring diagram first and then verify any year-specific parts before buying or rewiring.
+- The project bike is a `1982 Honda Sabre`, so use the `1982 750 Sabre` wiring diagram first, then verify any year-specific parts before buying or rewiring.
 
 ## Practical Order Of Use
 
@@ -36,4 +40,4 @@ This folder collects the electrical materials currently available in the project
 3. Use `manuals/01-ignition-system.pdf` for spark units, coils, pulse generators, and timing.
 4. Use `../cdi-reference/` for spark-unit architecture, timing checkpoints, diagnostics, and modern replacement paths.
 5. Use `parts-catalog/01-electrical-components.pdf` to identify assemblies and part relationships.
-6. Use the forum and online notes for common failures and upgrade paths.
+6. Use the notes in `notes/` for common failures and upgrade paths.

@@ -5,4 +5,3 @@
 - Fill with 50/50 ethylene glycol coolant.
 - Capacity is about 2.3 L.
 - Bleed air by running the engine with the radiator cap off until the thermostat opens.
-

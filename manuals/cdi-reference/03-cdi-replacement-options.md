@@ -32,7 +32,7 @@ Best use case:
 Pros:
 
 - lowest wiring risk;
-- stock curve;
+- stock advance curve;
 - easiest to troubleshoot with the factory manual.
 
 Cons:
@@ -58,7 +58,7 @@ Why this matters:
 Practical read:
 
 - this is the lowest-friction modern replacement path if you want to keep the stock-style architecture;
-- still verify your exact existing box code before ordering, because Carmo groups several VF applications together.
+- still verify your exact existing box code before ordering, because Carmo groups several VF applications together;
 - if your bike still has readable original markings, compare them directly against the Carmo compatibility list before buying.
 
 ## 4. Option C: Ignitech SPARKER TCI
@@ -82,7 +82,7 @@ Pros:
 
 Cons:
 
-- you still need to confirm pickup compatibility and harness strategy;
+- you still need to confirm pulse generator compatibility and harness strategy;
 - it is not a simple "buy any universal box and plug it in" solution.
 
 ## 5. Option D: Ignitech TCIP4
@@ -91,14 +91,14 @@ Best use case:
 
 - you want programmable advance control;
 - you are comfortable with wiring and laptop-based setup;
-- the bike is getting other major changes such as carb, exhaust, or compression changes.
+- the bike is getting other major changes such as carb, exhaust, or compression work.
 
 Ignitech states that `TCIP4` is:
 
 - an inductive programmable ignition;
 - intended for multi-cylinder carbureted bikes;
 - fully programmable for ignition timing;
-- configurable for different pickup systems and coils.
+- configurable for different pulse generator systems and coils.
 
 This is the strongest modern path if you want to reproduce the stock curve first and then develop your own.
 
@@ -114,13 +114,13 @@ Best use case:
 
 - you are researching a modern single-box replacement;
 - you are working on a V65 or another explicitly supported VF application;
-- you want a vendor-supported module using the OEM pickup strategy.
+- you want a vendor-supported module using the OEM pulse generator strategy.
 
 Why it is now tracked:
 
 - V4MuscleBike V65 owners repeatedly mention Rae-San as a good direction for old spark-box trouble;
 - the `V65 CDI box` thread says several users have made the switch;
-- Rae-San's PULSER TAI description says it uses OEM inductive pickups and rotor on supported bikes and can be supplied as a plug-in replacement for the original ignition.
+- Rae-San's PULSER TAI description says it uses the OEM inductive pulse generators and rotor on supported bikes and can be supplied as a plug-in replacement for the original ignition.
 
 Important limitation for this project:
 
@@ -166,7 +166,7 @@ Practical conclusion:
 
 ### Highest mistake risk
 
-- generic unverified "CDI" boxes with no model-specific pickup and coil strategy.
+- generic unverified "CDI" boxes with no model-specific pulse generator and coil strategy.
 
 ## 9. Safe Tuning Starting Point For A Programmable Box
 
@@ -192,4 +192,4 @@ Without that discipline, a programmable box becomes an expensive way to create a
 - [Here we go again](https://v4musclebike.com/threads/here-we-go-again.46903/) - direct V45 Sabre Ignitech TCIP4 install and diagnostic caution thread.
 - [V65 CDI box](https://v4musclebike.com/forums/showthread.php?t=47554) - Rae-San V65 discussion and fuel-pump-control clarification.
 - [Ideal ignition setup on V65](https://v4musclebike.com/threads/ideal-ignition-setup-on-v65.45321/) - coil power, COP, Rae-San, OEM-style coils, and TCI/CDI vocabulary discussion.
-- [Ignitech replacement for Dyna 3000](https://v4musclebike.com/threads/ignitech-replacement-for-dyna-3000.40044/) - TCIP4 programming workflow and stock-like map caution, but for a later Magna rather than first-gen Sabre.
+- [Ignitech replacement for Dyna 3000](https://v4musclebike.com/threads/ignitech-replacement-for-dyna-3000.40044/) - TCIP4 programming workflow and stock-like map caution, but for a later Magna rather than a first-gen Sabre.

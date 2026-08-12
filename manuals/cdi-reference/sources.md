@@ -15,7 +15,7 @@ Checked: 2026-04-29
 
 ## Web Sources
 
-### Primary product sources
+### Primary Product Sources
 
 - Ignitech product overview
   https://www.ignitech.cz/en/vyrobky
@@ -44,7 +44,7 @@ Checked: 2026-04-29
 - Rae-San PULSER TAI Ignition Module
   https://www.rae-san.com/rae-san-pulser-tai-ignition-module-2/
 
-### V4MuscleBike forum sources
+### V4MuscleBike Forum Sources
 
 - Here we go again
   https://v4musclebike.com/threads/here-we-go-again.46903/
@@ -64,7 +64,7 @@ Checked: 2026-04-29
 
 - Ignitech replacement for Dyna 3000
   https://v4musclebike.com/threads/ignitech-replacement-for-dyna-3000.40044/
-  Later-Magna thread, not a first-gen Sabre source, but useful for TCIP4 programming workflow, adapter/cable notes, and stock-like map discipline.
+  Later-Magna thread, not a first-gen Sabre source, but useful for the TCIP4 programming workflow, adapter/cable notes, and stock-like map discipline.
 
 - no spark at front cylinders
   https://v4musclebike.com/showthread.php?t=5602
@@ -75,5 +75,5 @@ Checked: 2026-04-29
 - The local Honda / Haynes material is used for stock specs and timing checkpoints.
 - Ignitech is used as the primary source for modern TCI vs CDI product distinctions.
 - Carmo is used as the primary source for currently listed off-the-shelf replacement-module availability.
-- Rae-San is treated as a vendor-contact path, not as assumed VF750S plug-in proof.
+- Rae-San is treated as a vendor-contact path, not as proven VF750S plug-in compatibility.
 - Forum material remains useful for symptom patterns and owner experience, but it is not treated as the primary source for hardware compatibility.

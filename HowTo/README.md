@@ -10,7 +10,7 @@ The workshop guide is split into one instruction per file under `HowTo/`.
 - [Coolant flush and fill](coolant-flush-and-fill.md)
 - [Brake fluid flush](brake-fluid-flush.md)
 
-## Diagnostics And Common Faults
+## Diagnostics and Common Faults
 
 - [V4MuscleBike forum field notes](v4musclebike-forum-field-notes.md)
 - [Cam inspection](cam-inspection.md)
@@ -20,7 +20,7 @@ The workshop guide is split into one instruction per file under `HowTo/`.
 - [CDI unit testing and replacement](cdi-testing-and-replacement.md)
 - [Intake boot replacement](intake-boot-replacement.md)
 
-## Fuel And Carburetors
+## Fuel and Carburetors
 
 - [Carburetor removal](carburetor-removal.md)
 - [Carburetor no-fuel delivery troubleshooting](carburetor-no-fuel-delivery.md)
@@ -40,13 +40,13 @@ The workshop guide is split into one instruction per file under `HowTo/`.
 - [Thermostat replacement](thermostat-replacement.md)
 - [Fan switch / manual override](fan-switch-manual-override.md)
 
-## Clutch And Transmission
+## Clutch and Transmission
 
 - [Clutch plate replacement](clutch-plate-replacement.md)
 - [Clutch hydraulic bleeding](clutch-hydraulic-bleeding.md)
 - [Starter clutch rebuild](starter-clutch-rebuild.md)
 
-## Suspension And Chassis
+## Suspension and Chassis
 
 - [Fork seal replacement](fork-seal-replacement.md)
 - [Pro-Link rear suspension rebuild](pro-link-rear-suspension-rebuild.md)
@@ -64,10 +64,8 @@ The workshop guide is split into one instruction per file under `HowTo/`.
 ## Tuning
 
 - [Top end oil modification](top-end-oil-mod.md)
-- [Front end swap planning](../Tuning/fork%20swap.md)
-- [EFI / ECU swap planning](../Tuning/ecu%20swap.md)
 
-## Fabrication And Custom Work
+## Fabrication and Custom Work
 
 - [Clip-on bars](clip-on-bars.md)
 - [Rear subframe modification](rear-subframe-modification.md)
@@ -79,5 +77,5 @@ The workshop guide is split into one instruction per file under `HowTo/`.
 - [Fork swap planning](../Tuning/fork%20swap.md)
 - [EFI / ECU swap planning](../Tuning/ecu%20swap.md)
 - [Top-end oiling guide](../Tuning/top-end-oiling.md)
-- `../problems.md`
-- `../Manuals/electrical-reference/`
+- [Common problems and solutions](../problems.md)
+- [Electrical system reference](../Manuals/electrical-reference/)

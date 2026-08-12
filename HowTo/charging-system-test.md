@@ -6,4 +6,3 @@
 4. If voltage stays low, test stator output across the stator leads.
 5. Expect about 60 to 80 VAC at 5000 RPM.
 6. If stator output is good but DC charging is low, the regulator/rectifier is the likely fault.
-

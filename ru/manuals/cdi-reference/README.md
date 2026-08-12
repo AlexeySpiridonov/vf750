@@ -1,21 +1,21 @@
 # CDI / блоки зажигания: справочник
 
-Русское зеркало: `manuals/cdi-reference/README.md`
+Английский оригинал: `Manuals/cdi-reference/README.md`
 
 Этот раздел собирает информацию по управлению зажиганием для проекта Honda VF750S / V45 Sabre.
 
-Важная терминология:
+Важное замечание по терминологии:
 
-- заводские мануалы называют систему `transistorized ignition` с двумя `spark units`;
-- владельцы и продавцы нештатных деталей часто называют эти блоки `CDI`, `igniter`, `ignition module` или `spark box`;
-- для этого мотоцикла `TCI / spark unit` технически точнее, чем классический CDI.
+- заводские мануалы описывают систему как `transistorized ignition` с двумя `spark units`;
+- владельцы и продавцы неоригинальных запчастей часто называют эти же блоки `CDI`, `igniter`, `ignition module` или `spark box`;
+- для этого мотоцикла технически корректнее описание `TCI / spark unit`.
 
 ## Файлы раздела
 
-- `01-cdi-tech-and-timing.md`
-- `02-cdi-diagnostics-and-setup.md`
-- `03-cdi-replacement-options.md`
-- `sources.md`
+- [01-cdi-tech-and-timing.md](01-cdi-tech-and-timing.md) — архитектура штатной системы, опубликованные контрольные углы и ключевые электрические параметры
+- [02-cdi-diagnostics-and-setup.md](02-cdi-diagnostics-and-setup.md) — типовые отказы, порядок диагностики и проверка стробоскопом
+- [03-cdi-replacement-options.md](03-cdi-replacement-options.md) — варианты замены от б/у штатных блоков до программируемых зажиганий, с деревом решений
+- [sources.md](sources.md) — локальные и веб-источники с заметками по интерпретации
 
 ## Использовать вместе с
 

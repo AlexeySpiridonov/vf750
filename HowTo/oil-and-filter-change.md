@@ -5,4 +5,3 @@
 - Capacity is about 3.2 L with filter.
 - Use 10W40 motorcycle oil with no friction modifiers.
 - Torque the drain bolt to 30 Nm.
-

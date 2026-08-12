@@ -6,4 +6,3 @@
 - Measure friction plate thickness and steel plate warpage.
 - Soak new friction plates in oil before installation.
 - Use oil with no friction modifiers and with a JASO MA rating.
-

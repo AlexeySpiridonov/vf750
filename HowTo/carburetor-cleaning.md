@@ -1,6 +1,6 @@
 # Carburetor cleaning
 
-- Disassemble all four carbs and note jet sizes and positions before mixing parts.
+- Disassemble all four carbs, and record jet sizes and positions so parts do not get mixed between bodies.
 - Ultrasonic cleaning is the best method for VF750 carb bodies.
 - Clear all jets, passages, and pilot circuits with compressed air.
 - Replace float valve needles if they are stuck or worn.
@@ -10,7 +10,7 @@
 
 ## Checking CV pistons, needles, and diaphragms
 
-The piston and needle in a CV carb should not behave like a free mechanical slide. It should lift smoothly with a finger, without binding or cocking, and return smoothly. All four pistons should feel roughly the same.
+The piston-and-needle assembly in a CV carb should not move like a free mechanical slide. It should lift smoothly with a finger, without binding or cocking, and return just as smoothly. All four pistons should feel roughly the same.
 
 Quick check:
 
@@ -96,7 +96,7 @@ Signs the circuit is still not clean:
 
 Ultrasonic cleaning helps, but it does not replace passage verification. After the ultrasonic bath, still prove every passage with carb cleaner and compressed air.
 
-Related:
+## Related
 
 - [Carburetor no-fuel delivery troubleshooting](carburetor-no-fuel-delivery.md)
 - [Carburetor synchronization](carburetor-synchronization.md)

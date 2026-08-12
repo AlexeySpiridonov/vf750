@@ -4,7 +4,7 @@ Checked: 2026-04-29
 
 Source forum: [1st Gen Honda Magna and Sabre (1982-1986)](https://v4musclebike.com/forums/1st-gen-honda-magna-and-sabre-1982-1986.4/)
 
-The V4MuscleBike first-generation Magna/Sabre forum is too large to treat as a single article. The forum page describes the section as general and technical discussion for the 1st gen V30, V42, V45, and V65 Honda Magna and Sabre family. At the time checked, the forum index showed long-running sticky resources plus recent recurring repair topics. This note turns those topics into a practical map for the VF750S / V45 Sabre project.
+The V4MuscleBike first-generation Magna/Sabre forum is too large to treat as a single article. The forum page describes the section as general and technical discussion for the 1st gen V30, V42, V45, and V65 Honda Magna and Sabre family. At the time of the check, the forum index showed long-running sticky resources plus recent recurring repair topics. This note turns those topics into a practical map for the VF750S / V45 Sabre project.
 
 ## High-value sticky threads
 
@@ -65,7 +65,7 @@ Practical path:
 3. Inspect the regulator/rectifier connector and stator connector for heat damage.
 4. Check grounds before replacing expensive parts.
 5. For two-cylinder spark loss, swap ignition modules or test pulse generators as directed by the manual.
-6. Treat tachometer faults as both instrument and ignition clues, because the tach signal can expose ignition-side faults.
+6. Treat tachometer faults as both instrument and ignition clues; the tach signal can expose ignition-side problems.
 
 Repository references:
 
@@ -87,7 +87,7 @@ Forum examples:
 
 ### Valve adjustment, top-end noise, cam chains, and oiling
 
-Forum topic titles repeatedly point at rattles under load, valve-versus-cam-chain diagnosis, Dean oil mod questions, rocker-arm interchange, hot hesitation, and Honda's valve-adjusting bulletin.
+Forum topic titles repeatedly point to rattles under load, valve-versus-cam-chain diagnosis, Dean oil mod questions, rocker-arm interchange, hot hesitation, and Honda's valve-adjusting bulletin.
 
 Practical path:
 
@@ -199,4 +199,4 @@ Forum examples:
 - For cafe-racer work, the forum is most useful for confirming stock routing, part interchange, and hidden model-year differences before fabrication starts.
 - Forum advice should be treated as field experience, then checked against the factory manual and the bike's exact model year.
 - For deeper upgrade-specific threads, see [V4MuscleBike upgrade research map](../Tuning/v4musclebike-upgrade-research.md).
-- For a full build-process example with downloaded local photos, see [Newbie's 1984 V65 Sabre build notes](../Tuning/newbies-84-v65-sabre-build.md) and the [local image archive](../images/build-process/newbies-84-v65-sabre/README.md).
+- For a full build-process example with downloaded local photos, see [Newbie's 1984 V65 Sabre build notes](../Tuning/newbies-84-v65-sabre-build.md) and the [local image archive](../Images/build-process/newbies-84-v65-sabre/README.md).

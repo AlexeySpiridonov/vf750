@@ -8,12 +8,12 @@ Condensed from the repo's current working notes for the VF750 V45 family.
 - Remove the airbox or air cleaner case pieces that block access.
 - Disconnect throttle and choke cables.
 - Loosen the intake boot clamps and pull the carb rack rearward.
-- Keep the rack upright once removed so the bowls do not dump fuel everywhere.
+- Keep the rack upright once removed so the float bowls do not spill fuel.
 
 ## Cleaning
 
 - Disassemble all four carburetors carefully and keep cylinder positions marked.
-- Record jet sizes, pilot screw settings, float parts, and any front/rear-bank differences before mixing parts.
+- Record jet sizes, pilot screw settings, float parts, and any front/rear-bank differences before any parts are mixed.
 - Ultrasonic cleaning is the best method for these VF750 carburetors.
 - Blow through every pilot circuit, jet, passage, and enrichment path with compressed air after cleaning.
 - Replace float valve needles if they are sticky, worn, or visibly damaged.
@@ -29,17 +29,17 @@ Condensed from the repo's current working notes for the VF750 V45 family.
 
 - Inspect all slide diaphragms for cracks, pinholes, stiffness, or poor seating in the cap groove.
 - Check the intake boots for cracks and hardening.
-- With the engine running, spray around the boots and vacuum connections; RPM change points to an intake leak.
+- With the engine running, spray around the boots and vacuum connections; an RPM change points to an intake leak.
 - Replace all four boots together if they are original and hardened.
 
 ## Immediate Red Flags
 
 - Runs only on choke: clogged pilot circuits, blocked enrichment passages, or a major intake leak.
-- Hard starting after sitting: stale fuel, stuck float valves, varnish in pilots, or leaking fuel valve/fuel line issues upstream.
+- Hard starting after sitting: stale fuel, stuck float valves, varnish in pilots, or upstream fuel-valve/fuel-line issues.
 - High idle that hangs: intake leak, throttle cable routing/binding, or slides not returning correctly.
 - Flat spots under throttle: torn diaphragms, poor sync, lean pilot circuit, or air leaks.
 
-## Existing Repo Sources
+## Repo Sources
 
 - `../../../HowTo/README.md`
 - `../../../problems.md`

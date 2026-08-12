@@ -2,23 +2,23 @@
 
 ## 1. What The Bike Actually Uses
 
-For the early V45 Sabre ignition, the local manuals describe a battery-fed transistorized ignition system with:
+For the early V45 Sabre, the local manuals describe a battery-fed transistorized ignition system with:
 
 - two pulse generator coils;
 - two spark units;
 - two ignition HT coils;
-- wasted-spark operation.
+- wasted-spark operation, with each coil serving a cylinder pair.
 
 The two spark units handle the cylinder pairs:
 
 - cylinders `1 and 3`;
 - cylinders `2 and 4`.
 
-The spark units are mounted at the rear of the bike under the seat / rear fender area on the early 700/750 Sabre family.
+On the early 700/750 Sabre family, the spark units are mounted at the rear of the bike, under the seat / rear fender area.
 
 ## 2. Stock Timing Data
 
-For the `1982-1983 750 Sabre`, the local manual set gives the practical timing checkpoints below:
+For the `1982-1983 750 Sabre`, the local manual set gives these practical timing checkpoints:
 
 | Item | Value |
 | --- | --- |
@@ -39,7 +39,7 @@ Practical interpretation:
 - the spark units then ramp advance electronically;
 - by `3,300 rpm`, the system should be at `37° BTDC`.
 
-That means the service literature gives a reliable `start point` and `full-advance point`, but not the complete hidden OEM curve between those checkpoints.
+That means the service literature gives a reliable start point and full-advance point, but not the complete OEM curve between those checkpoints.
 
 ## 4. Important System Specs For Diagnosis
 
@@ -52,16 +52,16 @@ Relevant local specs:
 | System type | `12 V transistorized ignition` |
 | Timing adjustment | `none` |
 
-Relevant wire pairs for the pulse generators in the local Haynes OCR:
+Relevant pulse generator wire pairs in the local Haynes OCR:
 
-- `white/yellow` and `yellow` for one pickup pair;
-- `white/blue` and `blue` for the other pickup pair.
+- `white/yellow` and `yellow` for one pulse generator;
+- `white/blue` and `blue` for the other.
 
 Because the OCR is imperfect, always confirm wire colors against the local wiring diagram before depinning or repinning anything.
 
 ## 5. What Is Not Adjustable On The Stock Bike
 
-The local manuals are explicit on the functional point:
+The local manuals are explicit on this point:
 
 - there is no normal ignition timing adjustment procedure;
 - the system is checked with a timing light only;
@@ -80,7 +80,7 @@ This matters because many old-bike ignition problems get misdiagnosed as "timing
 If you want one working target for a stock-running VF750S, it is this:
 
 - healthy 12 V supply;
-- both spark units firing their bank cleanly;
+- both spark units firing their cylinder pair cleanly;
 - base timing around `10° BTDC`;
 - clean advance progression to `37° BTDC` by `3,300 rpm`.
 

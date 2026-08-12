@@ -1,6 +1,6 @@
 # Pinterest Image Preview
 
-This page shows the Pinterest inspiration images stored in this folder.
+This page shows the inspiration images downloaded from the `saber` Pinterest board and stored in this folder.
 
 <img src="pinterest-05.jpg" alt="pinterest-05" width="600">
 <img src="pinterest-07.jpg" alt="pinterest-07" width="600">

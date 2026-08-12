@@ -1,8 +1,8 @@
 # Build Process Image Preview
 
-This page shows the build and conversion process images stored in this folder.
+This page shows the build and conversion process images stored in this folder: the Balkan Moto V45 Sabre build (`balkan-*`) and Perry's VF700S build from Inazuma Cafe (`perry-inazuma-*`).
 
-- [Newbie's 1984 V65 Sabre build archive](newbies-84-v65-sabre/README.md) - 444 V4MuscleBike build-thread images for Sugarkryptonite's V65 Sabre cafe/streetfighter conversion.
+- [Newbie's 1984 V65 Sabre build archive](newbies-84-v65-sabre/README.md) — 444 V4MuscleBike build-thread images for Sugarkryptonite's V65 Sabre cafe/streetfighter conversion.
 
 <img src="balkan-finished-build.jpg" alt="balkan-finished-build" width="600">
 <img src="balkan-parts-bike.jpg" alt="balkan-parts-bike" width="600">
