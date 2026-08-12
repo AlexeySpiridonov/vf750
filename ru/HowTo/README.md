@@ -1,4 +1,3 @@
-
 # Honda VF750 / V45: HowTo — русское зеркало
 
 Это раздел с переводами ключевых инструкций по обслуживанию и ремонту. Полная англоязычная версия находится в `../../HowTo/`. Русская часть будет пополняться по мере перевода новых статей.
@@ -10,7 +9,7 @@
 - [Регулировка клапанов](valve-adjustment.md)
 - [Замена масла и фильтра](oil-and-filter-change.md)
 - [Обслуживание свечей зажигания](spark-plug-service.md)
-- [Замена и доливка охлаждающей жидкости](coolant-flush-and-fill.md)
+- [Слив и залив охлаждающей жидкости](coolant-flush-and-fill.md)
 - [Прокачка тормозной жидкости](brake-fluid-flush.md)
 
 ### Диагностика и типовые неисправности
@@ -40,7 +39,7 @@
 ### Кастомизация и доработки
 
 - [Установка клипонов](clip-on-bars.md)
-- [Модификация задней рамы](rear-subframe-modification.md)
+- [Модификация заднего подрамника](rear-subframe-modification.md)
 - [Сиденье и хвостовая часть](seat-and-tail.md)
 - [Упрощение жгута проводки](wiring-harness-simplification.md)
 
@@ -49,16 +48,16 @@
 - [Замена вакуумных диафрагм](../../HowTo/vacuum-diaphragm-replacement.md)
 - [Замена сальников вилки](../../HowTo/fork-seal-replacement.md)
 - [Замена масла в редукторе](../../HowTo/final-drive-oil-change.md)
-- [Обслуживание гидравлики сцепления](../../HowTo/clutch-hydraulic-bleeding.md)
+- [Прокачка гидравлики сцепления](../../HowTo/clutch-hydraulic-bleeding.md)
 - [Замена дисков сцепления](../../HowTo/clutch-plate-replacement.md)
 - [Переборка обгонной муфты стартера](../../HowTo/starter-clutch-rebuild.md)
 - [Замена тормозных колодок](../../HowTo/brake-pad-replacement.md)
-- [Регулировка подшипников рулевой](../../HowTo/steering-head-bearing-adjustment.md)
+- [Регулировка подшипников рулевой колонки](../../HowTo/steering-head-bearing-adjustment.md)
 - [Переборка задней подвески Pro-Link](../../HowTo/pro-link-rear-suspension-rebuild.md)
-- [Смазка шлицов](../../HowTo/spline-lubrication.md)
+- [Смазка шлицев](../../HowTo/spline-lubrication.md)
 - [Ручной выключатель вентилятора](../../HowTo/fan-switch-manual-override.md)
 - [Замена термостата](../../HowTo/thermostat-replacement.md)
-- [Top-end oil mod](../../HowTo/top-end-oil-mod.md)
+- [Доработка подачи масла к верхней части двигателя](../../HowTo/top-end-oil-mod.md)
 
 ## Другие полезные русские материалы
 

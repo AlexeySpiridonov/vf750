@@ -57,7 +57,7 @@ One common field failure is very simple: the petcock was left off after tank or 
 
 ## If fuel is present but one cylinder runs lean
 
-Fresh V4MuscleBike field example on a `1984 V30`: the bike started easily, idled well, and pulled with good power, but after a ride the front-right pipe turned blue and the plug looked whitish. The forum response was: if cylinder synchronization is valid, an idle-drop mixture adjustment can be tried on the affected cylinder, but that adjustment only has a small correction range.
+V4MuscleBike field example, 1984 V30: the bike started easily, idled well, and pulled with good power, but after a ride the front-right pipe turned blue and the plug looked whitish. The forum response was: if cylinder synchronization is valid, an idle-drop mixture adjustment can be tried on the affected cylinder, but that adjustment only has a small correction range.
 
 Practical takeaways:
 
@@ -171,7 +171,7 @@ Symptoms:
 - one or two cylinders stay cold;
 - throttle response is delayed or flat.
 
-At that point, clean the rack again and prove the pilot/enrichment circuits with compressed air and carb cleaner flow paths before changing jet sizes.
+At that point, clean the rack again and prove the pilot/enrichment circuits with carb cleaner and compressed air before changing jet sizes.
 
 ## Quick diagnostic shortcuts
 

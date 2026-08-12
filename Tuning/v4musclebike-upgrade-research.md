@@ -14,7 +14,7 @@ Scope: V4MuscleBike threads related to alternative ignition/CDI/TCI boxes, ECU/E
 
 ## Alternative CDI / TCI / ignition boxes
 
-Important vocabulary note: forum users often say "CDI", but the Honda V4 system is generally discussed as a transistorized/inductive ignition. The box controls coil primary switching and timing; stronger spark is often improved more by clean coil power and grounds than by calling the module a CDI.
+Important vocabulary note: forum users often say "CDI", but the Honda V4 system is generally discussed as a transistorized/inductive (TCI) ignition, so a cheap generic "CDI" box is not a drop-in replacement for the stock units. The box controls coil primary switching and timing; a stronger spark usually comes from clean coil power and good grounds, not from what the module is called.
 
 ### Threads found
 

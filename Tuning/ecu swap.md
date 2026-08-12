@@ -6,7 +6,7 @@ Checked: 2026-04-29
 
 ## Scope
 
-- project bike context: 1982 Honda VF750S / V45 Sabre
+- project bike: 1982 Honda VF750S / V45 Sabre
 - stock system: four CV carburetors, no engine ECU, separate transistorized spark units
 - focus: converting from carburetors to electronic fuel injection with a standalone ECU
 - updated with V4MuscleBike EFI and ignition research
@@ -252,7 +252,7 @@ Best use case:
 Why it fits:
 
 - MicroSquirt is commonly used on small engines and powersports projects
-- MicroSquirt targets batch-fire or semi-sequential fueling and wasted-spark ignition, which matches a conservative V4 first build better than chasing full sequential injection immediately
+- MicroSquirt targets batch-fire or semi-sequential fueling and wasted-spark ignition, which suits a conservative first V4 build better than chasing full sequential injection immediately
 
 Watch-outs:
 
@@ -369,7 +369,7 @@ Critical measurements:
 - battery and electronics tray space
 - heat exposure near rear cylinders
 
-Mock the throttle bodies in cardboard, plastic, or scrap plate before cutting manifolds.
+Mock up the throttle bodies in cardboard, plastic, or scrap plate before cutting manifolds.
 
 ## Recommended Build Order
 

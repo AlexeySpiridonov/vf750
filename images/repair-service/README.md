@@ -1,6 +1,6 @@
 # Repair / Service Image Preview
 
-This folder currently has no local preview images.
+This folder is reserved for repair and service reference images (carb rebuild, tuning, and similar). It currently has no local images.
 
-If you add repair thumbnails here later, this page is where they should be embedded.
+When repair thumbnails are added, embed them on this page.
 

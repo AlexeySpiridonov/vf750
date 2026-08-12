@@ -8,7 +8,7 @@
 
 ## If one cylinder is clearly lean
 
-V4MuscleBike field example: a `1984 V30` owner rode about 120 km, then noticed a blue front-right pipe and a whitish plug. The bike still started easily, idled smoothly, and pulled well. That is the useful lesson: normal overall running does not rule out a local lean condition on one cylinder.
+V4MuscleBike field example: a 1984 V30 owner rode about 120 km, then noticed a blue front-right pipe and a whitish plug. The bike still started easily, idled smoothly, and pulled well. That is the useful lesson: normal overall running does not rule out a local lean condition on one cylinder.
 
 Practical order:
 

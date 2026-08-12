@@ -1,18 +1,19 @@
 # CDI / Spark Unit Reference
 
-This section collects the ignition control information for the Honda VF750S / V45 Sabre project.
+This section collects the ignition-control information for the Honda VF750S / V45 Sabre project.
 
 Important terminology note:
+
 - the factory manuals describe the system as a `transistorized ignition` with two `spark units`;
 - owners and aftermarket vendors often call the same boxes `CDI`, `igniter`, `ignition module`, or `spark box`;
 - for this bike, `TCI / spark unit` is the more technically correct description.
 
 ## Files In This Section
 
-- `01-cdi-tech-and-timing.md`
-- `02-cdi-diagnostics-and-setup.md`
-- `03-cdi-replacement-options.md`
-- `sources.md`
+- [01-cdi-tech-and-timing.md](01-cdi-tech-and-timing.md) - stock system architecture, published timing checkpoints, and key electrical specs
+- [02-cdi-diagnostics-and-setup.md](02-cdi-diagnostics-and-setup.md) - failure patterns, diagnostic order, and the timing-light check
+- [03-cdi-replacement-options.md](03-cdi-replacement-options.md) - replacement paths from used OEM boxes to programmable ignitions, with a decision tree
+- [sources.md](sources.md) - local and web sources, with interpretation notes
 
 ## Use Together With
 
@@ -28,4 +29,4 @@ Important terminology note:
 - Relevant electrical specs for diagnostics
 - Common failure patterns
 - Practical diagnostic flow
-- Replacement paths from lowest-risk to highest-flexibility
+- Replacement paths from lowest risk to highest flexibility

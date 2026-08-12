@@ -8,6 +8,7 @@ This folder collects visual references for the `1982 Honda VF750S Sabre` project
 - [Cafe Racer](cafe-racer/README.md)
 - [Pinterest](pinterest/README.md)
 - [Build Process](build-process/README.md)
+  - [Newbie's '84 V65 Sabre build archive](build-process/newbies-84-v65-sabre/README.md)
 - [Repair / Service](repair-service/README.md)
 
 ## Root Images
@@ -19,13 +20,13 @@ This folder collects visual references for the `1982 Honda VF750S Sabre` project
 
 ## Stock
 
-<a href="stock/README.md">Open folder preview page</a>
+[Open folder preview page](stock/README.md)
 
 <img src="stock/perry-vf700s-original.jpg" alt="perry-vf700s-original" width="600">
 
 ## Cafe Racer
 
-<a href="cafe-racer/README.md">Open folder preview page</a>
+[Open folder preview page](cafe-racer/README.md)
 
 <img src="cafe-racer/kspeed-sabre-racer-01.jpg" alt="kspeed-sabre-racer-01" width="600">
 <img src="cafe-racer/kspeed-sabre-racer-02.jpg" alt="kspeed-sabre-racer-02" width="600">
@@ -39,7 +40,7 @@ This folder collects visual references for the `1982 Honda VF750S Sabre` project
 
 ## Pinterest
 
-<a href="pinterest/README.md">Open folder preview page</a>
+[Open folder preview page](pinterest/README.md)
 
 <img src="pinterest/pinterest-05.jpg" alt="pinterest-05" width="600">
 <img src="pinterest/pinterest-07.jpg" alt="pinterest-07" width="600">
@@ -61,9 +62,9 @@ This folder collects visual references for the `1982 Honda VF750S Sabre` project
 
 ## Build Process
 
-<a href="build-process/README.md">Open folder preview page</a>
+[Open folder preview page](build-process/README.md)
 
-<a href="build-process/newbies-84-v65-sabre/README.md">Open Newbie's 1984 V65 Sabre build archive</a>
+[Open Newbie's 1984 V65 Sabre build archive](build-process/newbies-84-v65-sabre/README.md)
 
 <img src="build-process/balkan-finished-build.jpg" alt="balkan-finished-build" width="600">
 <img src="build-process/balkan-parts-bike.jpg" alt="balkan-parts-bike" width="600">
@@ -81,6 +82,6 @@ This folder collects visual references for the `1982 Honda VF750S Sabre` project
 
 ## Repair / Service
 
-<a href="repair-service/README.md">Open folder preview page</a>
+[Open folder preview page](repair-service/README.md)
 
 No local preview images are currently stored in `repair-service/`.

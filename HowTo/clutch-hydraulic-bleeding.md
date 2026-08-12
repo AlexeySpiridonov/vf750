@@ -20,7 +20,7 @@ Use DOT 4 fluid and protect painted parts before opening the reservoir. The clut
 6. Refill the reservoir as needed and never let it run dry.
 7. Repeat until the hose shows clean fluid with no bubbles and the lever firms up.
 
-## If The Lever Stays Spongy
+## If the Lever Stays Spongy
 
 - Tap the hose, master cylinder, and slave cylinder lightly to free trapped bubbles.
 - Leave the lever tied back to the bar for a few hours or overnight, then bleed again.

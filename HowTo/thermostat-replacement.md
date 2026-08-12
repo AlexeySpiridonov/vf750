@@ -4,4 +4,3 @@
 - Test the old thermostat in hot water.
 - It should start opening at about 80 C.
 - Replace it if it is stuck closed or does not open fully.
-

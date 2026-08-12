@@ -1,6 +1,6 @@
 # CDI / блоки зажигания: источники
 
-Русское зеркало: `manuals/cdi-reference/sources.md`
+Английский оригинал: `Manuals/cdi-reference/sources.md`
 
 Проверено: 2026-04-29
 
@@ -22,16 +22,16 @@
 - Обзор продуктов Ignitech
   https://www.ignitech.cz/en/vyrobky
 
-- Ignitech SPARKER TCI  
+- Ignitech SPARKER TCI
   https://www.ignitech.cz/en/vyrobky/tci/tci.htm
 
-- Ignitech TCIP4  
+- Ignitech TCIP4
   https://www.ignitech.cz/en/vyrobky/tcip/tcip.htm
 
-- Список мануалов Ignitech для TCI-применений
+- Список мануалов Ignitech по TCI-применениям
   https://www.ignitech.cz/en/vyrobky/tci/mototci.htm
 
-- Ignitech DCCDIP4  
+- Ignitech DCCDIP4
   https://www.ignitech.cz/en/vyrobky/dccdip4/dccdip4.htm
 
 - Сменный блок зажигания Carmo для VF700 / VF750
@@ -48,34 +48,34 @@
 
 ### Форумные источники V4MuscleBike
 
-- Here we go again  
-  https://v4musclebike.com/threads/here-we-go-again.46903/  
-  Прямая тема по V45 Sabre с установкой Ignitech TCIP4, диагностикой горячего отказа, предупреждениями по датчикам импульсов и уточнениями по топливной системе.
+- Here we go again
+  https://v4musclebike.com/threads/here-we-go-again.46903/
+  Прямая тема по V45 Sabre: установка Ignitech TCIP4, диагностика отказа на горячую, предупреждения по датчикам импульсов и уточнения по топливной системе.
 
-- V4spark.com  
-  https://v4musclebike.com/forums/showthread.php?p=531158  
-  Полезно по доступности V4spark / Dualcam и альтернативным названиям продавцов.
+- V4spark.com
+  https://v4musclebike.com/forums/showthread.php?p=531158
+  Полезна по состоянию доступности V4spark / Dualcam и альтернативным названиям продавцов.
 
-- V65 CDI box  
-  https://v4musclebike.com/forums/showthread.php?t=47554  
+- V65 CDI box
+  https://v4musclebike.com/forums/showthread.php?t=47554
   Полезное обсуждение Rae-San на V65 и напоминание, что CDI-блоки не управляют топливным насосом.
 
-- Ideal ignition setup on V65  
-  https://v4musclebike.com/threads/ideal-ignition-setup-on-v65.45321/  
+- Ideal ignition setup on V65
+  https://v4musclebike.com/threads/ideal-ignition-setup-on-v65.45321/
   Полезное системное обсуждение питания катушек, COP, Rae-San, свечных колпачков и того, почему платформа не является классическим CDI.
 
-- Ignitech replacement for Dyna 3000  
-  https://v4musclebike.com/threads/ignitech-replacement-for-dyna-3000.40044/  
-  Тема по более поздней Magna, полезная по процессу программирования TCIP4 и дисциплине штатноподобной карты.
+- Ignitech replacement for Dyna 3000
+  https://v4musclebike.com/threads/ignitech-replacement-for-dyna-3000.40044/
+  Тема по более поздней Magna, а не по Sabre первого поколения; полезна по процессу программирования TCIP4, заметкам про адаптер/кабель и дисциплине карты, близкой к штатной.
 
-- no spark at front cylinders  
-  https://v4musclebike.com/showthread.php?t=5602  
+- no spark at front cylinders
+  https://v4musclebike.com/showthread.php?t=5602
   Старая диагностическая тема по логике отсутствия искры на двух цилиндрах / одном ряду.
 
 ## Заметки по интерпретации
 
 - Локальные материалы Honda / Haynes используются для штатных спецификаций и контрольных точек зажигания.
-- Ignitech является основным источником по современному различию продуктов TCI и CDI.
-- Carmo является основным источником по текущей доступности готовых сменных модулей.
-- Rae-San рассматривается как путь через контакт с продавцом, а не как предполагаемое доказательство установки "в разъём" на VF750S.
-- Форумные материалы полезны по симптомам и опыту владельцев, но не являются основным источником совместимости железа.
+- Ignitech — основной источник по современному различию продуктов TCI и CDI.
+- Carmo — основной источник по текущей доступности готовых сменных модулей.
+- Rae-San рассматривается как путь через контакт с продавцом, а не как подтверждённая совместимость «в разъём» с VF750S.
+- Форумные материалы полезны по симптомам и опыту владельцев, но не являются основным источником по совместимости железа.

@@ -6,9 +6,9 @@ Forum: V4MuscleBike
 Builder: Sugarkryptonite  
 Model: 1984 Honda V65 Sabre / VF1100S
 
-This is not a direct VF750S/V45 Sabre recipe, but it is one of the best V4MuscleBike examples for seeing how a Sabre-family cafe/streetfighter build actually unfolds. The thread is useful because it shows the ugly middle of the job: bad wiring, radiator problems, fork-swap fabrication, carb issues, brake controls, rear-frame work, charging checks, and post-build safety fixes.
+This is not a direct VF750S/V45 Sabre recipe, but it is one of the best V4MuscleBike examples of how a Sabre-family cafe/streetfighter build actually unfolds. The thread is useful because it shows the ugly middle of the job: bad wiring, radiator problems, fork-swap fabrication, carb issues, brake controls, rear-frame work, charging checks, and post-build safety fixes.
 
-Local image archive: [images/build-process/newbies-84-v65-sabre](../images/build-process/newbies-84-v65-sabre/README.md)
+Local image archive: [images/build-process/newbies-84-v65-sabre](../Images/build-process/newbies-84-v65-sabre/README.md)
 
 ## Why this build matters
 
@@ -21,7 +21,7 @@ Local image archive: [images/build-process/newbies-84-v65-sabre](../images/build
 
 ### Baseline recovery
 
-The project starts closer to a rescue than a styling exercise. Early work includes removing the rear tail section, cleaning up previous-owner wiring, dealing with a bad radiator, sorting fuel delivery, and rebuilding/cleaning the carb rack. A V45 radiator is adapted after the original V65 radiator problem shows up, and the builder spends time on fuel hoses, fuel pump relay behavior, and basic run tests before the bike becomes a real conversion project.
+The project starts closer to a rescue than a styling exercise. Early work includes removing the rear tail section, cleaning up previous-owner wiring, dealing with a bad radiator, sorting fuel delivery, and rebuilding/cleaning the carb rack. A V45 radiator is adapted after the original V65 radiator proves bad, and the builder spends time on fuel hoses, fuel pump relay behavior, and basic run tests before the bike becomes a real conversion project.
 
 Useful local references:
 
@@ -48,7 +48,7 @@ The stock fork/brake situation pushes the build toward a Yamaha R1 front end. Th
 - brake master cylinder bore mismatch problems;
 - fork seal work and front-end reassembly.
 
-The builder also finds that cheap Chinese levers and a cheap round headlight are not worth trusting. The lever/master-cylinder issue is especially useful: the bore size must match the caliper/brake system needs, not just the handlebar look.
+The builder also finds that cheap Chinese levers and a cheap round headlight are not worth trusting. The lever/master-cylinder issue is especially useful: the bore size must match the calipers and brake system, not just the handlebar look.
 
 Useful local reference:
 
@@ -79,7 +79,7 @@ Practical note: engine paint and curing need caution around old seals and residu
 
 ### Carb tuning and first rides
 
-After assembly, the bike initially runs poorly on two cylinders. The useful diagnosis trail includes carb sync, compression concern, diaphragm concern, and mixture-screw baseline confusion. One important point from the thread is that Sabre and Magna carb settings should not be casually mixed; model-specific baseline turns matter.
+After assembly, the bike initially runs poorly on two cylinders. The useful diagnosis trail includes carb sync, compression and diaphragm concerns, and mixture-screw baseline confusion. One important point from the thread is that Sabre and Magna carb settings should not be casually mixed; model-specific baseline turns matter.
 
 The builder eventually gets the bike running and riding, but later has to deal with a head-gasket/cooling issue and another engine pull/reinstall. Treat the first ride as a shakedown, not a finish line.
 
@@ -93,7 +93,7 @@ Useful local references:
 
 The best safety lesson in the thread happens after the bike is already rideable: final-drive bolts are found loose after riding. The build also revisits tail-light reliability, wiring cleanup, side-cover paint, choke-cable routing, battery/starter behavior, and charging voltage.
 
-Do not skip post-build inspection:
+**Do not skip post-build inspection:**
 
 - re-torque axle, final-drive, brake, and suspension fasteners;
 - check charging voltage after battery/starter work;

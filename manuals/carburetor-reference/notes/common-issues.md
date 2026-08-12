@@ -1,6 +1,6 @@
 # Common Carburetor Issues
 
-This is the high-signal summary for the V45 Sabre carburetor work based on the manuals and notes already present in this repository.
+This is a high-signal summary for V45 Sabre carburetor work, based on the manuals and notes in this repository.
 
 ## 1. "Runs Only On Choke" Usually Means The Pilot Circuit Is Still Dirty
 
@@ -13,9 +13,9 @@ The most common failure pattern on old VF750 carburetors is:
 Practical rule:
 - if the bike only runs with choke or dies off-idle, assume the pilot circuit is still dirty until proven otherwise.
 
-## 2. Synchronization Matters More Than People Want To Admit
+## 2. Synchronization Matters More Than Expected
 
-These bikes can start and even idle badly while the carb rack is still far out of balance.
+These bikes can start, and even idle badly, while the carb rack is far out of balance.
 
 Typical signs:
 - uneven idle;
@@ -55,7 +55,7 @@ Practical rule:
 
 ## 5. Float And Fuel Valve Problems Often Start Upstream
 
-Flooding, wet plugs, or overflowing bowls are not always only a carb-body problem.
+Flooding, wet plugs, or overflowing bowls are not always just a carb-body problem.
 
 Check:
 - float valve needles and seats;
@@ -74,7 +74,7 @@ Practical rule:
 
 ## 7. Year Scope Matters
 
-This repo currently mixes:
+This repo mixes:
 
 - `1982 VF750S` factory service material;
 - broader multi-year Haynes procedures;

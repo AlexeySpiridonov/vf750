@@ -6,7 +6,7 @@ Source notes: Honda/Haynes fuel-system procedure and the V4MuscleBike thread [Ea
 
 ## Why this job is hard
 
-The four-carb rack is rigid, the V4 engine valley is tight, and old intake boots harden until they stop acting like rubber. Most bad installs happen because the mechanic fights the rack instead of making the boots flexible and correctly positioned first.
+The four-carb rack is rigid, the V4 engine valley is tight, and old intake boots harden until they stop acting like rubber. Most bad installs happen because the mechanic fights the rack instead of first making the boots flexible and correctly positioned.
 
 Do not pull the rack down with ratchet straps. Too much force can damage throttle shafts, carb bodies, linkages, intake boots, or the aluminum air chamber.
 
@@ -19,7 +19,7 @@ Do not pull the rack down with ratchet straps. Too much force can damage throttl
 - Check float bowls, fuel T-joints, O-rings, drain screws, and vacuum caps before the rack goes back in.
 - Replace cracked or stiff intake boots. New boots are much easier than trying to save old ones.
 - Lightly lubricate the inside lips of the boots with a rubber-safe lubricant.
-- If the bowl screws are damaged JIS/Phillips screws, replace them with button-head Allen screws before installation. This can make later jet or float-bowl access easier while the rack is still on the bike.
+- If the JIS/Phillips float-bowl screws are chewed up, replace them with button-head Allen screws before installation; this makes later jet and float-bowl access easier with the rack on the bike.
 
 ## Boot and clamp setup
 
@@ -47,7 +47,7 @@ If the clamps are installed and tightened too early, the boot loses much of its 
 10. Reconnect fuel lines, vacuum hoses, airbox/air chamber parts, and any California/emissions hoses exactly as routed before removal.
 11. Reconnect the battery.
 
-After installation, the throttle must snap closed from full lock left, center, and full lock right. If it does not, fix cable routing before starting the engine.
+**After installation, the throttle must snap closed from full lock left, center, and full lock right.** If it does not, fix cable routing before starting the engine.
 
 ## Softening boots
 
@@ -64,9 +64,9 @@ If using any solvent method:
 - Wear chemical gloves and eye protection.
 - Keep solvent away from flame, sparks, heaters, and painted surfaces.
 - Let the boots return to normal size before final clamp tightening.
-- Recheck clamp tightness after the first few heat cycles and again after 1-2 weeks.
+- Recheck clamp tightness after the first few heat cycles and again after 1–2 weeks.
 
-Xylene is flammable and hazardous. It can swell rubber quickly, but that speed is also the risk. Do not use it casually.
+**Xylene is flammable and hazardous.** It can swell rubber quickly, but that speed is also the risk. Do not use it casually.
 
 ## Fuel filter caution
 
@@ -108,7 +108,7 @@ First start:
 - Sync the carburetors any time the rack was removed or the intake boots were disturbed.
 - If it only runs on choke, look for dirty pilot circuits, air leaks, or incorrect fuel delivery before changing main jets.
 
-Related:
+## Related
 
 - [Carburetor removal](carburetor-removal.md)
 - [Carburetor no-fuel delivery troubleshooting](carburetor-no-fuel-delivery.md)

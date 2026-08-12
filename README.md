@@ -2,7 +2,7 @@
 
 This repository is the technical base for a `1982 Honda VF750S Sabre` to `cafe racer` conversion.
 
-It collects service documentation, parts catalogs, research notes, and reference materials for the project.
+It collects service documentation, parts catalogs, research notes, image references, and practical how-to guides for the project.
 
 ## Project Goal
 
@@ -20,10 +20,11 @@ If you are starting work in this repository, use this order:
 3. Review `problems.md` for the known weak points of the VF750 / V45 platform.
 4. Use `Manuals/electrical-reference/` first for wiring and charging diagnostics.
 5. Use `Manuals/cdi-reference/` for spark units, timing, ignition diagnostics, and replacement paths.
-6. Use `Tuning/fork swap.md` if working on chassis and front-end conversion planning.
-7. Use `Tuning/ecu swap.md` if researching EFI conversion paths.
-8. Use `Tuning/sabre-cafe-racer-projects.md` and `Images/` for design and build references.
-9. Use `resources.md` when you need forums, OEM parts sources, or external documentation.
+6. Use `Manuals/carburetor-reference/` for carburetor service: manual and parts-catalog extracts plus troubleshooting notes.
+7. Use `Tuning/fork swap.md` if working on chassis and front-end conversion planning.
+8. Use `Tuning/ecu swap.md` if researching EFI conversion paths.
+9. Use `Tuning/sabre-cafe-racer-projects.md` and `Images/` for design and build references.
+10. Use `resources.md` when you need forums, OEM parts sources, or external documentation.
 
 ## Repository Structure
 
@@ -34,12 +35,14 @@ Manuals/
   partslist-vf700s-sabre/     VF700S parts catalog — OCR, searchable, split by section
   electrical-reference/       electrical materials collected into one package
   cdi-reference/              standalone ignition / spark-unit package
+  carburetor-reference/       carburetor package: manual and fiche extracts plus notes
 .scripts/                     Python scripts for PDF processing
 Images/                       reference images: stock, cafe-racer, Pinterest board downloads
 Tuning/                       tuning, swap, and project-reference notes
 HowTo/                        one-file-per-task maintenance / repair / modification guides
 problems.md                   common VF750 problems and fixes (English)
 resources.md                  forums, OEM parts sources, and external documentation
+ru/                           Russian mirror of the main articles
 ```
 
 ## Documentation
@@ -47,6 +50,7 @@ resources.md                  forums, OEM parts sources, and external documentat
 ### Source PDFs
 
 - [Honda VF700/750/1100 Haynes service manual](Manuals/Honda%20VF700,750,1100%20v45,65%20Sabre%20And%20Magna%20V-Fours%2082-88%20Haynes%20Service%20Manual%20Eng%20By%20Mosue.pdf)
+- [Honda V45 Sabre VF750S 1982 factory shop manual](Manuals/Honda%20V%2045%20SABRE-VF750S%201982%20Shop%20Manual.pdf)
 - [VF700S Sabre parts list (1984–1985)](Manuals/partslist-vf700s-sabre_84-85_en-11082016-0807.pdf)
 
 ### Processed Output
@@ -57,6 +61,7 @@ The source PDFs under `Manuals/` have been converted into searchable PDFs with O
 - **Parts catalog** — 5 sections: front matter, engine (B1), frame (E1), part number index, description index.
 - **Electrical reference** — a combined package with ignition system, electrical system, wiring diagrams (all models + 1982 750 Sabre specifically), electrical parts catalog, and troubleshooting notes.
 - **CDI reference** — a standalone package for spark units / TCI, timing checkpoints, diagnostics, and replacement options.
+- **Carburetor reference** — a combined package with carburetor extracts from the Haynes and factory shop manuals, carb-related parts-catalog pages, and notes on procedures, common issues, and video links.
 
 Each generated manual package contains a `manifest.json` with source mappings and page ranges.
 
@@ -65,6 +70,7 @@ Each generated manual package contains a `manifest.json` with source mappings an
 - `.scripts/process_haynes_manual.py` — OCR and split the Haynes service manual.
 - `.scripts/process_partslist.py` — OCR and split the parts catalog.
 - `.scripts/build_electrical_reference.py` — assemble the electrical reference package.
+- `.scripts/build_carburetor_reference.py` — assemble the carburetor reference package.
 
 ## Research Notes
 
@@ -95,8 +101,8 @@ The `Images/` folder now includes several reference groups:
 - `Images/stock/` — stock Sabre reference photos.
 - `Images/cafe-racer/` — collected Sabre cafe racer build photos.
 - `Images/pinterest/` — downloaded images from the `saber` Pinterest board for visual comparison and inspiration.
-- `Images/build-process/` — internet-sourced build photos from Perry / Inazuma, Balkan Moto, video references, and the archived V4MuscleBike `Newbie's '84 V65 Sabre` build thread.
-- `Images/repair-service/` — repair-oriented reference thumbnails for carb rebuild and tuning.
+- `Images/build-process/` — internet-sourced build photos from Perry / Inazuma and Balkan Moto, plus the archived V4MuscleBike `Newbie's '84 V65 Sabre` build thread.
+- `Images/repair-service/` — reserved for repair-oriented reference thumbnails (currently empty).
 - `Images/README.md` — source index for the image folders.
 - root-level image files in `Images/` — previously collected standalone references.
 
@@ -122,7 +128,9 @@ Current state:
 - a practical service and modification guide now lives in `HowTo/`;
 - common VF750 issues have been consolidated in English in `problems.md`;
 - a standalone `Tuning/top-end-oiling.md` note now covers practical cylinder-head oiling improvements;
+- a combined carburetor package lives in `Manuals/carburetor-reference/`;
 - image references are now organized into stock, custom, and Pinterest-derived sets;
+- key articles are mirrored in Russian under `ru/`;
 - project markdown links were audited on 2026-04-12 and outdated internal `pdf/` and `output/` paths were corrected to the current `Manuals/` layout.
 
 Note: some external sites, especially Reddit and Balkan Moto, may return anti-bot HTTP responses to automated checks while still opening normally in a browser.

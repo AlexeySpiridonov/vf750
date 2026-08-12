@@ -1,8 +1,8 @@
 # Videos And Links
 
-These are the carburetor-related references already collected in the repository and worth keeping next to the manual extracts.
+Carburetor-related references collected in the repository, worth keeping next to the manual extracts.
 
-## Existing Repo Videos
+## Repo Videos
 
 - Honda VF750 Magna Carb Clean - TheMotorcycleMD  
   https://www.youtube.com/watch?v=52k8LaD3q4Y  
@@ -34,5 +34,5 @@ These are the carburetor-related references already collected in the repository 
 
 - `../manuals/04-shop-manual-fuel-system.pdf`
 - `../manuals/03-shop-manual-maintenance.pdf`
-- `parts-catalog/01-carburetor-assy-and-components.pdf`
-- `parts-catalog/04-air-cleaner.pdf`
+- `../parts-catalog/01-carburetor-assy-and-components.pdf`
+- `../parts-catalog/04-air-cleaner.pdf`

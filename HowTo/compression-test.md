@@ -7,4 +7,3 @@
 - Spec is about 170 psi.
 - Minimum acceptable pressure is about 130 psi.
 - Max difference between cylinders should stay within 15%.
-

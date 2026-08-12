@@ -1,14 +1,14 @@
 # Common Electrical Issues
 
-This is the high-signal summary for the Sabre platform based on the local manuals and the forum material collected in this project.
+This is a high-signal summary for the Sabre platform, based on the local manuals and the forum material collected in this project.
 
-## 1. Charging Problems Are Very Often Connector Problems First
+## 1. Charging Problems Are Often Connector Problems First
 
 The recurring pattern across the Sabre and Magna V4 forums is:
 
 - inspect the regulator/rectifier connectors first;
-- inspect the 3 yellow stator wires first;
-- inspect for heat damage, corrosion, looseness, or melted plastic first;
+- inspect the 3 yellow stator wires;
+- check for heat damage, corrosion, looseness, or melted plastic;
 - only then move on to stator and regulator/rectifier testing.
 
 Relevant sources:
@@ -43,8 +43,8 @@ Practical issues:
 - wires can be pinned incorrectly even when the connector body fits;
 - a wrong pinout can create a direct short to ground.
 
-Important recurring advice:
-- verify the wire positions before energizing the bike;
+Recurring advice:
+- **verify the wire positions before energizing the bike**;
 - do not assume aftermarket replacement pin order is correct;
 - treat the 30A main fuse as the main bike fuse, not a starter-motor fuse.
 
@@ -56,18 +56,17 @@ Relevant sources:
 
 ## 4. Weak Or Missing Spark Is Often Not Just "Bad CDI"
 
-The manuals and forum threads repeatedly point to several real causes:
+The manuals and forum threads point to several causes:
 
 - bad spark unit / CDI box;
 - weak battery during cranking;
 - bad power feed to the spark unit;
 - bad ground to the spark unit or coil;
 - failing pulse generators;
-- bad coil or coil wiring;
-- front/rear bank issues that also affect tach behavior.
+- bad coil or coil wiring.
 
-One especially useful diagnostic clue:
-- on these bikes, rear-bank ignition issues can affect the tachometer behavior.
+A useful diagnostic clue:
+- on these bikes, rear-bank ignition issues can affect tachometer behavior.
 
 Relevant sources:
 - `manuals/01-ignition-system.pdf`
@@ -76,7 +75,7 @@ Relevant sources:
 
 ## 5. Pulse Generator Resistance Matters
 
-The pulse generators age and can fail with heat and time.
+The pulse generators can fail with heat and age.
 
 When chasing no-spark or one-bank spark issues:
 - measure the pulse generators against the manual spec;
@@ -86,13 +85,13 @@ When chasing no-spark or one-bank spark issues:
 Use:
 - `manuals/01-ignition-system.pdf`
 
-## 6. Harness Problems Are Often Old-Age Problems, Not One Bad Component
+## 6. Harness Problems Are Often Age Problems, Not One Bad Component
 
-On these motorcycles the harness problems are often cumulative:
+Harness problems on these motorcycles are often cumulative:
 
 - oxidized connectors;
 - brittle insulation;
-- prior owner repairs;
+- prior-owner repairs;
 - bad grounds;
 - corroded fuse contacts;
 - hacked accessory wiring;

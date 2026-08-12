@@ -12,7 +12,7 @@ Typical pattern:
 
 - camshaft lobes and rocker surfaces wear early;
 - top-end ticking gets worse as the engine warms up;
-- rear bank often suffers more than the front;
+- the rear bank often suffers more than the front;
 - damage accelerates if idle speed is too low or oil changes are neglected.
 
 In this repository, the problem is already summarized in:
@@ -20,7 +20,7 @@ In this repository, the problem is already summarized in:
 - `../problems.md`
 - `../HowTo/README.md`
 
-## First Improve The Baseline Before Modifying Anything
+## Improve the Baseline First
 
 Do these checks first, because an oiling mod does not fix an already worn or
 neglected engine by itself:
@@ -29,9 +29,8 @@ neglected engine by itself:
    Keep hot idle around `1100-1200 RPM`. Low idle reduces oil pressure where
    these engines already struggle.
 2. Use the right oil and change it often.
-   A motorcycle-safe `10W40` or `15W50` is the usual practical range already
-   referenced elsewhere in this repo. Avoid automotive oils with wet-clutch
-   friction modifiers.
+   A motorcycle-safe `10W40` or `15W50` is the usual practical range. Avoid
+   automotive oils with friction modifiers that harm a wet clutch.
 3. Inspect cams and rockers.
    If the lobes or rocker pads are already damaged, improve oiling and repair
    the worn parts together.
@@ -55,6 +54,7 @@ Typical approach:
 - use new sealing washers at banjo or union connections.
 
 The practical goal is simple:
+
 - reduce pressure drop to the cam and rocker area;
 - get oil to the heads faster and more consistently;
 - reduce the chance of repeat camshaft wear after repair.
@@ -66,14 +66,14 @@ The practical goal is simple:
 - Prime the system and check for leaks immediately after first start.
 - Recheck all fittings after the first heat cycle.
 - If you are using a drill-and-tap style kit, treat cleanliness as critical.
-  Metal chips in the oiling system are unacceptable.
+  **Metal chips in the oiling system are unacceptable.**
 
 The local Haynes text is useful here because it explicitly notes the external
 oil pipe hardware and the need for new sealing washers during reassembly:
 
 - `../Manuals/haynes-manual/sections/02-engine-clutch-and-transmission.txt`
 
-## Other Ways To Help Top-End Lubrication
+## Other Ways to Help Top-End Lubrication
 
 These are not substitutes for direct oil-feed improvement, but they help:
 
@@ -100,7 +100,7 @@ If the valve train is already damaged, the correct path is:
 4. set idle and valve clearance correctly;
 5. monitor noise and oil condition after restart.
 
-## Practical Recommendation For This Repository
+## Practical Recommendation for This Repository
 
 For the `1982 VF750S Sabre` project, the lowest-risk order is:
 

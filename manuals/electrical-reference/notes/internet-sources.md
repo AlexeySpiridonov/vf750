@@ -75,7 +75,7 @@ Checked: 2026-04-12
 
 - Starter fuse blows when battery is connected V45 Sabre  
   https://v4musclebike.com/threads/starter-fuse-blows-when-battery-is-connected-v45-sabre.46738/  
-  Useful because it clearly explains why incorrectly pinned aftermarket solenoids can create a direct short.
+  Useful because it explains why incorrectly pinned aftermarket solenoids can create a direct short.
 
 - VF700s Starter Selenoid Replacement  
   https://v4musclebike.com/threads/vf700s-starter-selenoid-replacement.46535/  

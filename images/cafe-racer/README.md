@@ -1,6 +1,6 @@
 # Cafe Racer Image Preview
 
-This page shows the finished custom-bike references stored in this folder.
+This page shows the finished custom-bike references stored in this folder: the K-Speed Sabre Racer set (`kspeed-*`) and Perry's finished VF700S (`perry-vf700s-right`).
 
 <img src="kspeed-sabre-racer-01.jpg" alt="kspeed-sabre-racer-01" width="600">
 <img src="kspeed-sabre-racer-02.jpg" alt="kspeed-sabre-racer-02" width="600">
